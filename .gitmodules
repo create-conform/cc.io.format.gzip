@@ -1,0 +1,15 @@
+[submodule "cc.inflate"]
+	path = cc.inflate
+	url = https://github.com/create-conform/cc.inflate
+[submodule "cc.type"]
+	path = cc.type
+	url = https://github.com/create-conform/cc.type
+[submodule "cc.event"]
+	path = cc.event
+	url = https://github.com/create-conform/cc.event
+[submodule "cc.string"]
+	path = cc.string
+	url = https://github.com/create-conform/cc.string
+[submodule "cc.io"]
+	path = cc.io
+	url = https://github.com/create-conform/cc.io
