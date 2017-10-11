@@ -1,15 +1,17 @@
 {
   "name": "cc.io.format.gzip",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "title": "IO GZIP Format Module",
   "description": "IO module that implements GZIP stream support.",
   "license": "Apache-2.0",
-  "main": "gzip.js",
-  "pkxDependencies": [
-    "cc.type.0.1",
-    "cc.string.0.1",
-    "cc.event.0.1",
-    "cc.io.0.1",
-    "cc.inflate.0.1"
-  ]
+  "pkx" : {
+    "main": "gzip.js",
+    "dependencies": [
+      "cc.type.0.2",
+      "cc.string.0.2",
+      "cc.event.0.2",
+      "cc.io.0.2",
+      "cc.inflate.0.2"
+    ]
+  }
 }
